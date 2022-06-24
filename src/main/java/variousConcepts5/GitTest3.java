@@ -6,13 +6,17 @@ public class GitTest3 {
 			System.out.println("test1");
 			System.out.println("test2");
 			
-			printme();
+			printMe();
 			
 		}
 		
-		public static void printme() {
+		public static void printMe() {
 			
 			
 			System.out.println("print me");
+			
+			System.out.println("print me 1");
+			
+			System.out.println("what the news about economic recession right now");
 		}
 }
